@@ -1,5 +1,11 @@
 ### Hi there 👋
+<a href="https://github.com/ichejra?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichejra&theme=algolia"/>
+</a>
 
+<a href="https://github.com/ichejra?tab=repositories">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ichejra&line_height=40&show_icons=true&theme=algolia">
+</a>
 <!--
 **ichejra/ichejra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
