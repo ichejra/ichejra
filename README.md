@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <a href="https://github.com/ichejra?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichejra&theme=algolia"/>
 </a>
